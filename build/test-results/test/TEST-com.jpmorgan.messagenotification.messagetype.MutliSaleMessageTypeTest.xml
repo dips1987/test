@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jpmorgan.messagenotification.messagetype.MutliSaleMessageTypeTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-07-03T21:18:06" hostname="DIPUPRAKSs-MBP" time="0.016">
+  <properties/>
+  <testcase name="shouldAcceptTheCorrectMessageFormat" classname="com.jpmorgan.messagenotification.messagetype.MutliSaleMessageTypeTest" time="0.001"/>
+  <testcase name="shouldExtractProductInfoFromTheCorrectMessageFormat" classname="com.jpmorgan.messagenotification.messagetype.MutliSaleMessageTypeTest" time="0.002"/>
+  <testcase name="shouldRejectsTheIncorrectCorrectMessageFormat" classname="com.jpmorgan.messagenotification.messagetype.MutliSaleMessageTypeTest" time="0.013"/>
+  <system-out><![CDATA[20 sales of banana at 10p each
+30 sales of banana at 10p
+20 sales of apples 15p each
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

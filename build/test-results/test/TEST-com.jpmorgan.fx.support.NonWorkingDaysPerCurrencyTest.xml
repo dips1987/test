@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jpmorgan.fx.support.NonWorkingDaysPerCurrencyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-07-03T21:18:06" hostname="DIPUPRAKSs-MBP" time="0.013">
+  <properties/>
+  <testcase name="shouldReturnNonWorkingDaysForAEDOrSARCurrencies" classname="com.jpmorgan.fx.support.NonWorkingDaysPerCurrencyTest" time="0.012"/>
+  <testcase name="shouldReturnNonWorkingDaysForOtherCurrencies" classname="com.jpmorgan.fx.support.NonWorkingDaysPerCurrencyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jpmorgan.fx.process.FXReportComputationTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-07-03T21:18:06" hostname="DIPUPRAKSs-MBP" time="0.087">
+  <properties/>
+  <testcase name="shouldReturnTotalAmountForBothIncomingAndOutgoingOnlyForANonWorkingSettlementDate" classname="com.jpmorgan.fx.process.FXReportComputationTest" time="0.076"/>
+  <testcase name="shouldReturnTotalAmountForBothIncomingOutgoingOnlyForMultipleWorkingSettlementDates" classname="com.jpmorgan.fx.process.FXReportComputationTest" time="0.002"/>
+  <testcase name="shouldReturnTotalAmountForOutgoingOnlyForMultipleWorkingSettlementDates" classname="com.jpmorgan.fx.process.FXReportComputationTest" time="0.001"/>
+  <testcase name="shouldReturnMaxForOutgoingOnlyForAWorkingSettlementDate" classname="com.jpmorgan.fx.process.FXReportComputationTest" time="0.005"/>
+  <testcase name="shouldReturnMaxForOutgoingOnlyForMultipleWorkingSettlementDates" classname="com.jpmorgan.fx.process.FXReportComputationTest" time="0.0"/>
+  <testcase name="shouldReturnTotalAmountForOutgoingOnlyForAWorkingSettlementDate" classname="com.jpmorgan.fx.process.FXReportComputationTest" time="0.0"/>
+  <testcase name="shouldReturnMaxForBothIncomingAndOutgoingForASettlementDate" classname="com.jpmorgan.fx.process.FXReportComputationTest" time="0.0"/>
+  <testcase name="shouldReturnTotalAmountForBothIncomingAndOutgoingOnlyForAWorkingSettlementDate" classname="com.jpmorgan.fx.process.FXReportComputationTest" time="0.001"/>
+  <system-out><![CDATA[{Data={action=Buy, settlementDate=2017-06-30}=10025.0, Data={action=Sell, settlementDate=2017-06-30}=12030.0, Data={action=Buy, settlementDate=2017-07-03}=8020.0}]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
